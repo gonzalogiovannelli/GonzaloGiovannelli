@@ -31,7 +31,7 @@ A **Python script** that extracts and transforms billing data from an API, prepa
 ## 🚀 How This Website Was Built
 This portfolio was built using **Massively by HTML5 UP**, a minimalist and responsive HTML template.  
 
-🔗 **Live Portfolio:** [Visit My Portfolio](https://gonzalogiovannelli.github.io/)  
+🔗 **Live Portfolio:** [Visit My Portfolio](https://gonzalogiovannelli.github.io/](https://gonzalogiovannelli.github.io/GonzaloGiovannelli/)  
 
 ---
 © 2024 Gonzalo Giovannelli. All rights reserved.
