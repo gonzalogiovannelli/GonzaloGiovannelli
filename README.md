@@ -20,12 +20,12 @@ A **Power BI Dashboard** that helps businesses track cash flow, supplier debts, 
 A **Python script** that extracts and transforms billing data from an API, preparing structured datasets for further analysis.  
 🔗 **GitHub Repository:** [Maxirest-API](https://github.com/gonzalogiovannelli/Maxirest-API)  
 
-### **3️⃣ Process Optimization Using DMAIC**  
+### 3️⃣ Process Optimization Using DMAIC  
 Implemented the **DMAIC framework** to improve production efficiency in a food manufacturing environment.  
 - **Identified inefficiencies** using data-driven analysis.  
 - **Optimized workforce scheduling** to reduce downtime.  
 - **Structured an Agile backlog** for continuous improvement.  
-🔗 **GitHub Repository:** [Continuous-Improvement](https://github.com/gonzalogiovannelli/Continuous-Improvement)  
+- 📂 **GitHub Repository:** [Continuous-Improvement](https://github.com/gonzalogiovannelli/Continuous-Improvement)
 
 ## ⚙️ Technologies & Methodologies Used  
 - **Python** (Requests, Pandas, GSpread)  
