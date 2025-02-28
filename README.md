@@ -24,7 +24,8 @@ A **Python script** that extracts and transforms billing data from an API, prepa
 Implemented the **DMAIC framework** to improve production efficiency in a food manufacturing environment.  
 - **Identified inefficiencies** using data-driven analysis.  
 - **Optimized workforce scheduling** to reduce downtime.  
-- **Structured an Agile backlog** for continuous improvement.  
+- **Structured an Agile backlog** for continuous improvement.
+
 🔗 **GitHub Repository:** [Continuous-Improvement](https://github.com/gonzalogiovannelli/Continuous-Improvement)
 
 ## ⚙️ Technologies & Methodologies Used  
