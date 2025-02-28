@@ -25,7 +25,7 @@ Implemented the **DMAIC framework** to improve production efficiency in a food m
 - **Identified inefficiencies** using data-driven analysis.  
 - **Optimized workforce scheduling** to reduce downtime.  
 - **Structured an Agile backlog** for continuous improvement.  
-- 📂 **GitHub Repository:** [Continuous-Improvement](https://github.com/gonzalogiovannelli/Continuous-Improvement)
+🔗 **GitHub Repository:** [Continuous-Improvement](https://github.com/gonzalogiovannelli/Continuous-Improvement)
 
 ## ⚙️ Technologies & Methodologies Used  
 - **Python** (Requests, Pandas, GSpread)  
